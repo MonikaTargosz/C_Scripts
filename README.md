@@ -1,17 +1,23 @@
 # C_Scripts
+
 C program codes
 
-Input Output statement
+## Projects in C
 
-- program that takes hours and minutes as input, and calculates the total number of minutes
-- program in C that takes minutes as input, and display the total number of hours and minutes
+- How to develop a project in C?: How to develop a project in C? [PL].md
+- How to use gcc compiler?: 
 
-Generating 15-th first elements of the Fibonacci sequence: https://godbolt.org/z/jTPKqjrfv
+## Input Output statement
 
-8.1 Struktura na daty: https://godbolt.org/z/Gj71nx4n7
+- Program with Input Output statement: https://godbolt.org/z/vsW1hYETG
 
-8.2 Program for setting a tomorrow's date: https://godbolt.org/z/1YY1onoo5
+## Structure:
 
+- Structure for dates: https://godbolt.org/z/Gj71nx4n7
+- Program for setting a tomorrow's date: https://godbolt.org/z/1YY1onoo5
 
+## Algorithm:
+
+- Generating 15-th first elements of the Fibonacci sequence: https://godbolt.org/z/jTPKqjrfv
 
 
